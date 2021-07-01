@@ -28,7 +28,9 @@ export function AuthContextProvider(props: AuthContextProviderProps) {
 
     const[user, setUser] = useState<User>();
 
-    //useEffect vai servir, nesse caso, para monitorar se o login está efetaudo. E se estiver, exibir na tela a informação do usuário. Caso contrário, ao atualizar a tela as informações do usuário sumiria.
+    /* useEffect vai servir para monitorar se o login está efetaudo
+    * caso contrário, se o usuário der F5 ou atualizar a página, as informações dele se perderiam
+    * com o termo 'use' percebemos que se trata de um hook */
     useEffect(() => {
       const unsubscribe = auth.onAuthStateChanged(user => { 
         if (user) { 

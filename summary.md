@@ -11,8 +11,13 @@
 - separando muito código em um arquivo separado
 - criando um hook para encapsular importações. A boa prática é usar função que inicie com 'use'
 
+## Aula 3
+- Utilizando o firebase para enviar e receber os dados de/para Banco de dados
+- Incluindo novas salas no BD com push em um array no database.ref
+- Criar regras de autorização de usuário dentro do Firebase
+- entendendo um pouco melhor os eventos de child added, child changed do Firebase
 
 
 ### aprender a diferença SASS (que é o SCSS) para o CSS
 ### aprender mais a fundo sobre promise no JS
-### aprender 
+### aprender melhor sobre Async | Await
