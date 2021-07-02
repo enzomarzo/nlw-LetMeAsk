@@ -17,7 +17,13 @@
 - Criar regras de autorização de usuário dentro do Firebase
 - entendendo um pouco melhor os eventos de child added, child changed do Firebase
 
+## Parte 4
+- Criando hook room
+- Criando funcionalidades de Admin
+- Criando funcionalidades de Like 
 
 ### aprender a diferença SASS (que é o SCSS) para o CSS
 ### aprender mais a fundo sobre promise no JS
 ### aprender melhor sobre Async | Await
+### aprender sobre os states do React
+### aprender sobre os hooks (useState, useEffect)
