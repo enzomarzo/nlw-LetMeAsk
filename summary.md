@@ -1,6 +1,6 @@
 # summary of what I learnd with NWL immersion
 
-## Aula 2
+## Parte 2
 - Ter as páginas desenhadas e saber o que eu quero fazer antes de tudo
 - Criar toda estrutura de HTML (mesmo que precise modificar depois)
 - Fazer os ajustes iniciais de CSS
@@ -11,7 +11,7 @@
 - separando muito código em um arquivo separado
 - criando um hook para encapsular importações. A boa prática é usar função que inicie com 'use'
 
-## Aula 3
+## Parte 3
 - Utilizando o firebase para enviar e receber os dados de/para Banco de dados
 - Incluindo novas salas no BD com push em um array no database.ref
 - Criar regras de autorização de usuário dentro do Firebase
